@@ -1,9 +1,9 @@
 ---
 layout: default
-title: UI Components
+title: 推しで学ぶ英単語(Anki)
 nav_order: 3
 has_children: true
-permalink: /docs/ui-components
+permalink: /docs/eitango
 ---
 
 # UI Components

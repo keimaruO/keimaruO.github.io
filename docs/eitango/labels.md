@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Labels
-parent: UI Components
+parent: 推しで学ぶ英単語(Anki)
 nav_order: 3
 ---
 

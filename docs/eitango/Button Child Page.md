@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 切り抜き動画
-parent: UI Components
-nav_order: 2
-has_children: true
+title: Buttons Child Page
+parent: 方法
+grand_parent: 推しで学ぶ英単語(Anki)
+nav_order: 1
 ---
 
 # Buttons
 {: .no_toc }
 
-## Table of contents
+## Table of contents    
 {: .no_toc .text-delta }
 
 1. TOC
@@ -41,7 +41,7 @@ has_children: true
 ```
 
 ### Button element
-
+![スクリーンショット](https://cdn.discordapp.com/attachments/698107659286609934/1107196598527721562/Call_of_Duty_Modern_Warfare_2_2022_2023.05.14_-_15.41.24.11.DVR_Trim.mp4)
 GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
 
 <div class="code-example">

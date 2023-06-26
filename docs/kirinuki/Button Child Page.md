@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Buttons Child Page
-parent: 切り抜き動画
-grand_parent: UI Components
+parent: 切り抜き動画2
+grand_parent: 切り抜き動画
 nav_order: 1
 ---
 
@@ -41,7 +41,7 @@ nav_order: 1
 ```
 
 ### Button element
-![スクリーンショット](https://media.discordapp.net/attachments/924465493295919105/933008499699490906/unknown.png?width=1086&height=671)
+![スクリーンショット](https://cdn.discordapp.com/attachments/698107659286609934/1107196598527721562/Call_of_Duty_Modern_Warfare_2_2022_2023.05.14_-_15.41.24.11.DVR_Trim.mp4)
 GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
 
 <div class="code-example">

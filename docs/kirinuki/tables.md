@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables
-parent: UI Components
+parent: 切り抜き動画
 nav_order: 4
 ---
 

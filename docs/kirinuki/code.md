@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
+parent: 切り抜き動画
 has_children: true
 nav_order: 6
 ---

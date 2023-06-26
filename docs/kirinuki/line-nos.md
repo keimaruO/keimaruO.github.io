@@ -2,8 +2,8 @@
 layout: default
 title: Code with line numbers
 parent: Code
-grand_parent: UI Components
-permalink: /docs/ui-components/code/line-numbers/
+grand_parent: 切り抜き動画
+permalink: /docs/kirinuki/code/line-numbers/
 ---
 
 # Code snippets with line numbers

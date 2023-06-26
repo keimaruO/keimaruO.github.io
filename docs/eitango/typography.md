@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Typography
-parent: UI Components
+title: 基本的な流れ
+parent: 推しで学ぶ英単語(Anki)
 nav_order: 1
 ---
 
-# Typography
+# 基本的な流れ
 {: .no_toc }
 
-## Table of contents
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
